@@ -1,4 +1,4 @@
-# Off-Season Tech Internships by Pitt CSC & Simplify
+      Jun-1980-jones:dev LICENSE# Off-Season Tech Internships by Pitt CSC & Simplify
 
 We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Fall 2024, Winter 2025, or Spring 2025**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
